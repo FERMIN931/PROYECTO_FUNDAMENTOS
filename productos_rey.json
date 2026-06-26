@@ -1,0 +1,82 @@
+[
+    {
+        "codigo": "R001",
+        "nombre": "Piñata mediana",
+        "categoria": "Piñatas",
+        "evento": "Cumpleaños",
+        "precio": 45.0,
+        "stock": 20
+    },
+    {
+        "codigo": "R002",
+        "nombre": "Globo metálico",
+        "categoria": "Globos",
+        "evento": "Cumpleaños",
+        "precio": 12.0,
+        "stock": 80
+    },
+    {
+        "codigo": "R003",
+        "nombre": "Cinta decorativa",
+        "categoria": "Decoración",
+        "evento": "Matrimonio",
+        "precio": 8.5,
+        "stock": 50
+    },
+    {
+        "codigo": "R004",
+        "nombre": "Caja sorpresa",
+        "categoria": "Regalos",
+        "evento": "Día de la Madre",
+        "precio": 35.0,
+        "stock": 25
+    },
+    {
+        "codigo": "R005",
+        "nombre": "Taza personalizada",
+        "categoria": "Regalos",
+        "evento": "Día del Profesor",
+        "precio": 18.0,
+        "stock": 30
+    },
+    {
+        "codigo": "R006",
+        "nombre": "Guirnalda de colores",
+        "categoria": "Decoración",
+        "evento": "Cumpleaños",
+        "precio": 15.0,
+        "stock": 40
+    },
+    {
+        "codigo": "R007",
+        "nombre": "Bolsa para sorpresa",
+        "categoria": "Fiesta infantil",
+        "evento": "Cumpleaños",
+        "precio": 2.0,
+        "stock": 100
+    },
+    {
+        "codigo": "R008",
+        "nombre": "Adorno para torta",
+        "categoria": "Accesorios",
+        "evento": "Cumpleaños",
+        "precio": 10.0,
+        "stock": 35
+    },
+    {
+        "codigo": "R009",
+        "nombre": "Set de decoración",
+        "categoria": "Decoración",
+        "evento": "Día del Padre",
+        "precio": 28.0,
+        "stock": 22
+    },
+    {
+        "codigo": "R010",
+        "nombre": "Recuerdo para matrimonio",
+        "categoria": "Recuerdos",
+        "evento": "Matrimonio",
+        "precio": 6.0,
+        "stock": 58
+    }
+]
