@@ -3,12 +3,12 @@ import os
 import random
 from datetime import datetime
 
-ARCH_PRODUCTOS = "productos_rey.json"
+ARCH_PRODUCTOS = "productos_rey.json" 
 ARCH_VENTAS = "ventas_rey.json"
 ARCH_PEDIDOS = "pedidos_rey.json"
 
 
-def cargar_datos(nombre_archivo):
+def cargar_datos(nombre_archivo):  #Lee un archivo JSON y devuelve sus datos.
     """Carga datos desde un archivo JSON. Si no existe, devuelve una lista vacía."""
     if not os.path.exists(nombre_archivo):
         return []
@@ -20,27 +20,27 @@ def cargar_datos(nombre_archivo):
             return []
 
 
-def guardar_datos(nombre_archivo, datos):
+def guardar_datos(nombre_archivo, datos): #Guarda datos en un archivo JSON.
     """Guarda datos en un archivo JSON."""
     with open(nombre_archivo, "w", encoding="utf-8") as archivo:
-        json.dump(datos, archivo, indent=4, ensure_ascii=False)
+        json.dump(datos, archivo, indent=4, ensure_ascii=False) #ensure_ascii=False → permite guardar correctamente caracteres como ñ y tildes.
 
 
-def leer_texto(mensaje):
+def leer_texto(mensaje):  #Pide un texto y no permite que quede vacío.
     """Lee texto y evita que el usuario deje el campo vacío."""
     while True:
-        dato = input(mensaje).strip()
+        dato = input(mensaje).strip() #strip() elimina espacios al inicio y al final.
         if dato:
             return dato
         print("Error: no puede quedar vacío.")
 
 
-def leer_entero(mensaje, minimo=None):
-    """Lee un número entero y valida el valor mínimo."""
+def leer_entero(mensaje, minimo=None): #Pide un número entero y lo valida.
+    """Lee un número entero y valida el valor mínimo.""" #Si existe un valor mínimo y el número es menor, muestra un error.
     while True:
         try:
             valor = int(input(mensaje))
-            if minimo is not None and valor < minimo:
+            if minimo is not None and valor < minimo:  #Si existe un valor mínimo y el número es menor, muestra un error.
                 print(f"Error: debe ser mayor o igual a {minimo}.")
                 continue
             return valor
@@ -48,11 +48,11 @@ def leer_entero(mensaje, minimo=None):
             print("Error: ingrese un número entero válido.")
 
 
-def leer_float(mensaje, minimo=None):
+def leer_float(mensaje, minimo=None): #Pide un número decimal y lo valida.
     """Lee un número decimal y valida el valor mínimo."""
     while True:
         try:
-            valor = float(input(mensaje))
+            valor = float(input(mensaje))    #Convierte lo escrito por el usuario a un número decimal.
             if minimo is not None and valor < minimo:
                 print(f"Error: debe ser mayor o igual a {minimo}.")
                 continue
@@ -63,7 +63,7 @@ def leer_float(mensaje, minimo=None):
 
 def fecha_actual():
     """Devuelve la fecha y hora actual."""
-    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    return datetime.now().strftime("%Y-%m-%d %H:%M:%S") #Obtiene la fecha y hora actua
 
 
 def inicializar_catalogo(productos):
@@ -266,7 +266,7 @@ def generar_reporte(productos, ventas, pedidos):
 
 def cargar_ventas_simuladas(productos, ventas):
     """Genera 50 ventas simuladas para probar el sistema."""
-    print("\n--- CARGAR 50 VENTAS SIMULADAS ---")
+    print("\n--- CARGAR 50 VENTAS  ---")
 
     if not productos:
         print("No existen productos para simular.")
@@ -303,19 +303,19 @@ def cargar_ventas_simuladas(productos, ventas):
     guardar_datos(ARCH_PRODUCTOS, productos)
     guardar_datos(ARCH_VENTAS, ventas)
 
-    print(f"Se generaron {contador} ventas simuladas.")
+    print(f"Se generaron {contador} ventas.")
 
 
 def mostrar_menu():
     """Muestra el menú principal del sistema."""
-    print("\n===== PIÑATERÍA REY =====")
+    print("\n    PIÑATERÍA REYNA  ")
     print("1. Registrar producto")
     print("2. Listar productos")
     print("3. Registrar venta")
     print("4. Registrar pedido")
     print("5. Buscar producto")
     print("6. Generar reporte")
-    print("7. Cargar 50 ventas simuladas")
+    print("7. Cargar 50 ventas")
     print("8. Salir")
 
 
@@ -327,7 +327,7 @@ def main():
 
     inicializar_catalogo(productos)
 
-    while True:
+    while True: #El programa entra en un ciclo que nunca termina por sí solo.
         mostrar_menu()
         opcion = leer_entero("Seleccione una opción: ", 1)
 

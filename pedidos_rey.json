@@ -1,1 +1,20 @@
-[]
+[
+    {
+        "fecha_registro": "2026-07-07 16:59:14",
+        "cliente": "ABELARDO QUIÑONES",
+        "tipo_evento": "CUMPLEAÑOS",
+        "fecha_evento": "10/07/26",
+        "detalle": "DECORACION",
+        "anticipo": 30.0,
+        "estado": "Pendiente"
+    },
+    {
+        "fecha_registro": "2026-07-07 17:00:24",
+        "cliente": "MARTIN VERA",
+        "tipo_evento": "CUMPLEAÑOS",
+        "fecha_evento": "15/07/26",
+        "detalle": "DECORACION",
+        "anticipo": 40.0,
+        "estado": "Pendiente"
+    }
+]

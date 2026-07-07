@@ -6,5 +6,1213 @@
         "cantidad": 2,
         "evento": "Matrimonio",
         "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 16:54:29",
+        "codigo": "R012",
+        "producto": "VELAS PARA PASTEL",
+        "cantidad": 3,
+        "evento": "CUMPLEAÑOS",
+        "total": 16.5
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 2.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 8.5
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 1,
+        "evento": "Día del Padre",
+        "total": 28.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 90.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 4.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 90.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 45.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R012",
+        "producto": "VELAS PARA PASTEL",
+        "cantidad": 1,
+        "evento": "CUMPLEAÑOS",
+        "total": 5.5
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 8.5
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 6.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R011",
+        "producto": "VELA DE CUMPLEAÑOS",
+        "cantidad": 1,
+        "evento": "cumpleaños",
+        "total": 1.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 20.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 17.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 4.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 24.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 2,
+        "evento": "Día del Padre",
+        "total": 56.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 24.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 2.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 90.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 4.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R011",
+        "producto": "VELA DE CUMPLEAÑOS",
+        "cantidad": 2,
+        "evento": "cumpleaños",
+        "total": 2.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R005",
+        "producto": "Taza personalizada",
+        "cantidad": 2,
+        "evento": "Día del Profesor",
+        "total": 36.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 4.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 17.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 45.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 90.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 30.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 30.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 1,
+        "evento": "Día del Padre",
+        "total": 28.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R005",
+        "producto": "Taza personalizada",
+        "cantidad": 1,
+        "evento": "Día del Profesor",
+        "total": 18.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R005",
+        "producto": "Taza personalizada",
+        "cantidad": 2,
+        "evento": "Día del Profesor",
+        "total": 36.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R012",
+        "producto": "VELAS PARA PASTEL",
+        "cantidad": 1,
+        "evento": "CUMPLEAÑOS",
+        "total": 5.5
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R012",
+        "producto": "VELAS PARA PASTEL",
+        "cantidad": 2,
+        "evento": "CUMPLEAÑOS",
+        "total": 11.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 2,
+        "evento": "Día del Padre",
+        "total": 56.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 90.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 6.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R004",
+        "producto": "Caja sorpresa",
+        "cantidad": 1,
+        "evento": "Día de la Madre",
+        "total": 35.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 90.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 1,
+        "evento": "Día del Padre",
+        "total": 28.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R011",
+        "producto": "VELA DE CUMPLEAÑOS",
+        "cantidad": 1,
+        "evento": "cumpleaños",
+        "total": 1.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 15.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:04:54",
+        "codigo": "R004",
+        "producto": "Caja sorpresa",
+        "cantidad": 2,
+        "evento": "Día de la Madre",
+        "total": 70.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 45.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 8.5
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 6.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R005",
+        "producto": "Taza personalizada",
+        "cantidad": 2,
+        "evento": "Día del Profesor",
+        "total": 36.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R011",
+        "producto": "VELA DE CUMPLEAÑOS",
+        "cantidad": 1,
+        "evento": "cumpleaños",
+        "total": 1.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R005",
+        "producto": "Taza personalizada",
+        "cantidad": 2,
+        "evento": "Día del Profesor",
+        "total": 36.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R004",
+        "producto": "Caja sorpresa",
+        "cantidad": 1,
+        "evento": "Día de la Madre",
+        "total": 35.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R004",
+        "producto": "Caja sorpresa",
+        "cantidad": 1,
+        "evento": "Día de la Madre",
+        "total": 35.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 1,
+        "evento": "Día del Padre",
+        "total": 28.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 1,
+        "evento": "Día del Padre",
+        "total": 28.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 17.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 17.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 20.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R004",
+        "producto": "Caja sorpresa",
+        "cantidad": 2,
+        "evento": "Día de la Madre",
+        "total": 70.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 1,
+        "evento": "Día del Padre",
+        "total": 28.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R012",
+        "producto": "VELAS PARA PASTEL",
+        "cantidad": 1,
+        "evento": "CUMPLEAÑOS",
+        "total": 5.5
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 2.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R005",
+        "producto": "Taza personalizada",
+        "cantidad": 1,
+        "evento": "Día del Profesor",
+        "total": 18.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 24.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 90.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 45.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 15.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 2,
+        "evento": "Día del Padre",
+        "total": 56.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 15.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 6.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R005",
+        "producto": "Taza personalizada",
+        "cantidad": 2,
+        "evento": "Día del Profesor",
+        "total": 36.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 45.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 8.5
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 17.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 1,
+        "evento": "Día del Padre",
+        "total": 28.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R012",
+        "producto": "VELAS PARA PASTEL",
+        "cantidad": 1,
+        "evento": "CUMPLEAÑOS",
+        "total": 5.5
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R001",
+        "producto": "Piñata mediana",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 45.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 4.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R012",
+        "producto": "VELAS PARA PASTEL",
+        "cantidad": 2,
+        "evento": "CUMPLEAÑOS",
+        "total": 11.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 4.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R011",
+        "producto": "VELA DE CUMPLEAÑOS",
+        "cantidad": 1,
+        "evento": "cumpleaños",
+        "total": 1.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:06:09",
+        "codigo": "R012",
+        "producto": "VELAS PARA PASTEL",
+        "cantidad": 1,
+        "evento": "CUMPLEAÑOS",
+        "total": 5.5
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 17.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R012",
+        "producto": "VELAS PARA PASTEL",
+        "cantidad": 1,
+        "evento": "CUMPLEAÑOS",
+        "total": 5.5
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 30.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 24.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 2,
+        "evento": "Día del Padre",
+        "total": 56.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 20.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R005",
+        "producto": "Taza personalizada",
+        "cantidad": 2,
+        "evento": "Día del Profesor",
+        "total": 36.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R004",
+        "producto": "Caja sorpresa",
+        "cantidad": 2,
+        "evento": "Día de la Madre",
+        "total": 70.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R011",
+        "producto": "VELA DE CUMPLEAÑOS",
+        "cantidad": 2,
+        "evento": "cumpleaños",
+        "total": 2.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 17.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R004",
+        "producto": "Caja sorpresa",
+        "cantidad": 2,
+        "evento": "Día de la Madre",
+        "total": 70.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 15.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 15.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 20.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R005",
+        "producto": "Taza personalizada",
+        "cantidad": 1,
+        "evento": "Día del Profesor",
+        "total": 18.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 2,
+        "evento": "Día del Padre",
+        "total": 56.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 4.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 30.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 6.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R011",
+        "producto": "VELA DE CUMPLEAÑOS",
+        "cantidad": 2,
+        "evento": "cumpleaños",
+        "total": 2.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 8.5
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 1,
+        "evento": "Día del Padre",
+        "total": 28.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 6.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R008",
+        "producto": "Adorno para torta",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 10.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 30.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 4.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R003",
+        "producto": "Cinta decorativa",
+        "cantidad": 2,
+        "evento": "Matrimonio",
+        "total": 17.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R006",
+        "producto": "Guirnalda de colores",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 30.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 4.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 6.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R010",
+        "producto": "Recuerdo para matrimonio",
+        "cantidad": 1,
+        "evento": "Matrimonio",
+        "total": 6.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 2.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R011",
+        "producto": "VELA DE CUMPLEAÑOS",
+        "cantidad": 1,
+        "evento": "cumpleaños",
+        "total": 1.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 1,
+        "evento": "Día del Padre",
+        "total": 28.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 2.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R012",
+        "producto": "VELAS PARA PASTEL",
+        "cantidad": 2,
+        "evento": "CUMPLEAÑOS",
+        "total": 11.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R005",
+        "producto": "Taza personalizada",
+        "cantidad": 1,
+        "evento": "Día del Profesor",
+        "total": 18.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R011",
+        "producto": "VELA DE CUMPLEAÑOS",
+        "cantidad": 1,
+        "evento": "cumpleaños",
+        "total": 1.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R002",
+        "producto": "Globo metálico",
+        "cantidad": 1,
+        "evento": "Cumpleaños",
+        "total": 12.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R009",
+        "producto": "Set de decoración",
+        "cantidad": 2,
+        "evento": "Día del Padre",
+        "total": 56.0
+    },
+    {
+        "fecha": "2026-07-07 17:07:01",
+        "codigo": "R007",
+        "producto": "Bolsa para sorpresa",
+        "cantidad": 2,
+        "evento": "Cumpleaños",
+        "total": 4.0
     }
 ]

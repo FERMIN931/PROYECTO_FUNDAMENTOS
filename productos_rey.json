@@ -5,7 +5,7 @@
         "categoria": "Piñatas",
         "evento": "Cumpleaños",
         "precio": 45.0,
-        "stock": 20
+        "stock": 0
     },
     {
         "codigo": "R002",
@@ -13,7 +13,7 @@
         "categoria": "Globos",
         "evento": "Cumpleaños",
         "precio": 12.0,
-        "stock": 80
+        "stock": 63
     },
     {
         "codigo": "R003",
@@ -21,7 +21,7 @@
         "categoria": "Decoración",
         "evento": "Matrimonio",
         "precio": 8.5,
-        "stock": 50
+        "stock": 29
     },
     {
         "codigo": "R004",
@@ -29,7 +29,7 @@
         "categoria": "Regalos",
         "evento": "Día de la Madre",
         "precio": 35.0,
-        "stock": 25
+        "stock": 14
     },
     {
         "codigo": "R005",
@@ -37,7 +37,7 @@
         "categoria": "Regalos",
         "evento": "Día del Profesor",
         "precio": 18.0,
-        "stock": 30
+        "stock": 14
     },
     {
         "codigo": "R006",
@@ -45,7 +45,7 @@
         "categoria": "Decoración",
         "evento": "Cumpleaños",
         "precio": 15.0,
-        "stock": 40
+        "stock": 23
     },
     {
         "codigo": "R007",
@@ -53,7 +53,7 @@
         "categoria": "Fiesta infantil",
         "evento": "Cumpleaños",
         "precio": 2.0,
-        "stock": 100
+        "stock": 75
     },
     {
         "codigo": "R008",
@@ -61,7 +61,7 @@
         "categoria": "Accesorios",
         "evento": "Cumpleaños",
         "precio": 10.0,
-        "stock": 35
+        "stock": 13
     },
     {
         "codigo": "R009",
@@ -69,7 +69,7 @@
         "categoria": "Decoración",
         "evento": "Día del Padre",
         "precio": 28.0,
-        "stock": 22
+        "stock": 1
     },
     {
         "codigo": "R010",
@@ -77,6 +77,22 @@
         "categoria": "Recuerdos",
         "evento": "Matrimonio",
         "precio": 6.0,
-        "stock": 58
+        "stock": 32
+    },
+    {
+        "codigo": "R011",
+        "nombre": "VELA DE CUMPLEAÑOS",
+        "categoria": "cumpleaños",
+        "evento": "cumpleaños",
+        "precio": 1.0,
+        "stock": 18
+    },
+    {
+        "codigo": "R012",
+        "nombre": "VELAS PARA PASTEL",
+        "categoria": "ACCESORIOS",
+        "evento": "CUMPLEAÑOS",
+        "precio": 5.5,
+        "stock": 25
     }
 ]
